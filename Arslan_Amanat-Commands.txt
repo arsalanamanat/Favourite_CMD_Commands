@@ -1,0 +1,18 @@
+--help Command :
+
+Command is your manual and is very useful when you need to figure out what a command does. 
+For example, if you didn’t know what the command rmdir does, you could use the man command
+to find that out.
+
+
+
+Clear :
+
+This command is used to clear all previous commands and output from consoles and terminal
+windows. This keeps your terminal clean and removes the clutter so you can focus on 
+subsequent commands and their output.
+
+Less: 
+
+The less command allows you to view files without opening an editor. It’s faster to use,
+and there’s no chance of you inadvertently modifying the file.
